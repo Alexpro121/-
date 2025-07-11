@@ -1,0 +1,30 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "certifi>=2025.6.15",
+    "dnspython>=2.7.0",
+    "httpx>=0.28.1",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "psutil>=7.0.0",
+    "python-docx>=1.2.0",
+    "python-telegram-bot>=22.1",
+    "requests-html>=0.10.0",
+    "requests>=2.32.4",
+    "scikit-learn>=1.7.0",
+    "selenium>=4.34.2",
+    "telegram>=0.0.1",
+    "tldextract>=5.3.0",
+    "trafilatura>=2.0.0",
+    "urlextract>=1.9.0",
+    "urllib3>=2.5.0",
+    "validators>=0.35.0",
+    "whois>=1.20240129.2",
+    "python-whois>=0.9.5",
+    "pyopenssl>=25.1.0",
+    "webdriver-manager>=4.0.2",
+]
